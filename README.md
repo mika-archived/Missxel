@@ -2,7 +2,7 @@
 
 Plot the count of notes per day in Misskey like GitHub contribution graph.
 
-<img src="https://pixe.la/v1/users/mika/graphs/misskey" width="550" />
+[![](https://pixe.la/v1/users/mika/graphs/misskey)](https://pixe.la/v1/users/mika/graphs/misskey.html)
 
 
 ## Stack
