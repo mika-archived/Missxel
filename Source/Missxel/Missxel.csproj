@@ -4,7 +4,7 @@
     <AzureFunctionsVersion>v2</AzureFunctionsVersion>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Disboard.Misskey" Version="1.1.175" />
+    <PackageReference Include="Disboard.Misskey" Version="1.1.255" />
     <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="1.0.27" />
     <PackageReference Include="Pixela" Version="1.0.4" />
   </ItemGroup>
