@@ -1,0 +1,8 @@
+{
+  "extends": ["config:base"],
+  "timezone": "Asia/Tokyo",
+  "schedule": "after 9:30am and before 5:30pm",
+  "patch": {
+    "automerge": true
+  }
+}
